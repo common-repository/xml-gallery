@@ -1,0 +1,11 @@
+#xml_gallery{font-family:Verdana, Geneva, sans-serif;}
+#xml_gallery h1{color:#7D878F;font-size:19px;font-weight:normal;}
+#xml_gallery label{display:block;float:left;margin-top:12px;text-align:left;width:100px;}
+#xml_gallery label.labelMaior{width:170px;}
+#xml_gallery span{color:#AFAFAF;display:block;float:left;font-size:11px;font-weight:bold;margin-left:10px;margin-top:12px;}
+#xml_gallery select{display:block;height:auto;margin-top:12px;width:310px;}
+#xml_gallery input{display:block;float:left;font-family:verdana;margin-top:12px;width:310px;border: 1px solid #057C9E;}
+#xml_gallery input.txtPeq{width: 35px;}
+#xml_gallery .button {display:inline-block;margin-left:352px;margin-top:20px;}
+#xml_gallery .privacy_load{background:url("img/privacy-loader.gif") repeat scroll 0 0 transparent;height:16px;left:50%;margin-left:-8px;position:absolute;top:200px;width:16px;display:none}
+#xml_gallery .notice{}
